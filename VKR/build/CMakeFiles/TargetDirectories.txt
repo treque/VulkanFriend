@@ -1,0 +1,3 @@
+C:/Users/tran9/Documents/VulkanFriend/VKR/build/CMakeFiles/VulkanRenderer.dir
+C:/Users/tran9/Documents/VulkanFriend/VKR/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tran9/Documents/VulkanFriend/VKR/build/CMakeFiles/ZERO_CHECK.dir
